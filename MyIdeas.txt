@@ -1,0 +1,40 @@
+Virtual Reality Project Ideas:
+
+Github:
+      1. https://github.com/defritz/VirtualRealityProjects
+      2. https://github.com/kingdomax/vr-bomb
+      3. https://github.com/MicheleMallia/XVR-VirtualMuseum-PROJECT-MASTER-THESIS-
+      4. https://github.com/Minipeps/VR_Chemist
+      5. https://github.com/SlaggyWolfie/Pollution-Below-Water
+      6. https://github.com/seb646/space-explorer
+      7. https://github.com/omaralsayed/vr-planetarium
+      8. https://github.com/ferdinandjason/virtual-reality-solar-system
+
+Links:
+      1. https://medium.com/virtual-reality-virtual-people/2018-vr-student-projects-4fcfb990f4d
+      2. https://www.fastcompany.com/3045891/15-ideas-that-will-make-you-reconsider-virtual-reality
+      3. https://www.freetech4teachers.com/2018/09/5-vr-projects-for-students.html
+      4. https://www.freetech4teachers.com/search/label/DIY%20Virtual%20Reality
+      5. https://wp.cs.ucl.ac.uk/anthonysteed/teaching/projects/
+      
+Topics:
+      1. Job Simulations (Example : Bomb Disposal)
+      2. Meditation and More....
+      3. Phobia (Example : Handling Crane from top of the building)
+      3. Education Sector:
+                        1. VR tours about places students study in geography / history lessons.
+                        
+      4. Virtual Zoo
+      
+      
+      
+      
+Artificial Intelligence:
+
+Links:
+      1. 
+      
+      
+Topics:
+      1. Audio to Sign Language Converter (Bangla)
+      
